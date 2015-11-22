@@ -1199,7 +1199,6 @@ input#cfsubmit:hover {
     float: right;
     line-height: 1;
     color: #fff;
-	display:none;
 }
 
 .footer a {
@@ -1298,6 +1297,6 @@ input#cfsubmit:hover {
     .footer .author {
         float: none;
         text-align: center;
-		display:none;
+		
     }
 }
